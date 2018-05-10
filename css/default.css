@@ -1,0 +1,10 @@
+.thumbnail{
+    height: 120px;
+    width: 150px;
+    border-radius: 5%;
+}
+
+.navbar-brand {
+    text-align: center;
+}
+
